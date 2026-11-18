@@ -1,0 +1,3 @@
+{
+  "postStartCommand": "chmod +x ./start-all.sh && nohup ./start-all.sh > start-all.log 2>&1 &"
+}
